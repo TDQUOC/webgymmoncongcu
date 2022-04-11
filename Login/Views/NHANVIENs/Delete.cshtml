@@ -1,0 +1,123 @@
+﻿@model Login.Models.NHANVIEN
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#myPage">DRAGON GYM</a>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav navbar-right">
+                <li>@Html.ActionLink("Trang chủ", "Index", "Home")</li>
+                <li>@Html.ActionLink("Khách hàng", "Index", "KHACHHANGs")</li>
+                <li class="active">@Html.ActionLink("Nhân viên", "Index", "NHANVIENs")</li>
+                <li>@Html.ActionLink("Thiết bị", "Index", "THIETBIs")</li>
+                <li>@Html.ActionLink("Khuyến mãi", "Index", "KHUYENMAIs")</li><li>@Html.ActionLink("Videos", "Index", "Videos")</li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<hr />
+
+<div class="container">
+    <hr />
+    <h4 class="text-center">Bạn có chắc chắn muốn xóa nhân viên này?</h4>
+</div>
+
+<div class="container text-center">
+    <table class="table text-center">
+        <tr>
+            <td>
+                @Html.DisplayNameFor(model => model.manv)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.manv)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayNameFor(model => model.tennv)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.tennv)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayNameFor(model => model.ntnsinh)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.ntnsinh)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayNameFor(model => model.diachi)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.diachi)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayNameFor(model => model.sodienthoai)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.sodienthoai)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayNameFor(model => model.chucvu)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.chucvu)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayNameFor(model => model.ngaykyhd)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.ngaykyhd)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayNameFor(model => model.ngayhhhd)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.ngayhhhd)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayNameFor(model => model.luong)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.luong)
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div class="container text-center">
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color text-center">
+            <input type="submit" value="Xóa" class="btn btn-default" /> |
+            @Html.ActionLink("Quay lại", "Index")
+        </div>
+    }
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -1,0 +1,81 @@
+﻿@model Login.Models.NHANVIEN
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="col-md-offset-1">Chi tiết nhân viên</h2>
+
+<div>
+
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.tennv)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tennv)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ntnsinh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ntnsinh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.diachi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.diachi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.sodienthoai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.sodienthoai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.chucvu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.chucvu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ngaykyhd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngaykyhd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ngayhhhd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngayhhhd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.luong)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.luong)
+        </dd>
+
+    </dl>
+</div>
+<div class="col-md-offset-1">
+    <i class="fa fa-long-arrow-left" aria-hidden="true" style="color:black"> @Html.ActionLink("Quay lại", "Index")</i>
+</div>

@@ -1,0 +1,81 @@
+﻿@model Login.Models.KHACHHANG
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="col-md-offset-1">Chi tiết khách hàng</h2>
+
+<div>
+
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.tenkh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tenkh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ntnsinh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ntnsinh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.diachi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.diachi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.sodienthoai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.sodienthoai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.loaikh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.loaikh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ngaydk)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngaydk)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ngayhh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngayhh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.lephi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lephi)
+        </dd>
+
+    </dl>
+</div>
+<div class="col-md-offset-1">
+    <i class="fa fa-long-arrow-left" aria-hidden="true" style="color:black"> @Html.ActionLink("Quay lại", "Index")</i>
+</div>

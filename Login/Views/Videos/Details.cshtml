@@ -1,0 +1,71 @@
+﻿@model Login.Models.Video
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#myPage">DRAGON GYM</a>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav navbar-right">
+                <li>@Html.ActionLink("Trang chủ", "Index", "Home")</li>
+                <li>@Html.ActionLink("Khách hàng", "Index", "KHACHHANGs")</li>
+                <li>@Html.ActionLink("Nhân viên", "Index", "NHANVIENs")</li>
+                <li>@Html.ActionLink("Thiết bị", "Index", "THIETBIs")</li>
+                <li>@Html.ActionLink("Khuyến mãi", "Index", "KHUYENMAIs")</li>
+                <li class="active">@Html.ActionLink("Videos", "Index", "Videos")</li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+<br />
+<br />
+<br />
+<br />
+<h1 style="color:black;text-align:center">Video Chi tiet</h1>
+<div class="container">
+
+    <div>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Url)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Url)
+            </dd>
+
+            <dd>
+                <iframe width="450" height="350" src="@Model.Url.Replace("watch?v=", "embed/")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Type)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Type)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+    </div>

@@ -1,0 +1,83 @@
+﻿@model Login.Models.KHUYENMAI
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#myPage">DRAGON GYM</a>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav navbar-right">
+                <li>@Html.ActionLink("Trang chủ", "Index", "Home")</li>
+                <li>@Html.ActionLink("Khách hàng", "Index", "KHACHHANGs")</li>
+                <li>@Html.ActionLink("Nhân viên", "Index", "NHANVIENs")</li>
+                <li>@Html.ActionLink("Thiết bị", "Index", "THIETBIs")</li>
+                <li class="active">@Html.ActionLink("Khuyến mãi", "Index", "KHUYENMAIs")</li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<hr />
+
+<div class="container">
+    <hr />
+    <h4 class="text-center">Bạn có chắc chắn muốn xóa chương trình khuyến mãi này?</h4>
+</div>
+
+<div class="container text-center">
+    <table class="table text-center">
+        <tr>
+            <td>
+                @Html.DisplayNameFor(model => model.mact)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.mact)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayNameFor(model => model.tenct)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.tenct)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayNameFor(model => model.noidung)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.noidung)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayNameFor(model => model.doituong)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.doituong)
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div class="container text-center">
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color text-center">
+            <input type="submit" value="Xóa" class="btn btn-default" /> |
+            @Html.ActionLink("Quay lại", "Index")
+        </div>
+    }
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

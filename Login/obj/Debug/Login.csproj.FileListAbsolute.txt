@@ -1,0 +1,669 @@
+E:\Lập Trình Web\Login\Login\bin\ApplicationInsights.config
+E:\Lập Trình Web\Login\Login\bin\roslyn\csc.exe
+E:\Lập Trình Web\Login\Login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Lập Trình Web\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Lập Trình Web\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Lập Trình Web\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Lập Trình Web\Login\Login\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Lập Trình Web\Login\Login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Lập Trình Web\Login\Login\bin\roslyn\System.Collections.Immutable.dll
+E:\Lập Trình Web\Login\Login\bin\roslyn\System.Reflection.Metadata.dll
+E:\Lập Trình Web\Login\Login\bin\roslyn\vbc.exe
+E:\Lập Trình Web\Login\Login\bin\roslyn\VBCSCompiler.exe
+E:\Lập Trình Web\Login\Login\bin\roslyn\VBCSCompiler.exe.config
+E:\Lập Trình Web\Login\Login\bin\Login.dll.config
+E:\Lập Trình Web\Login\Login\bin\Login.dll
+E:\Lập Trình Web\Login\Login\bin\Login.pdb
+E:\Lập Trình Web\Login\Login\bin\Antlr3.Runtime.dll
+E:\Lập Trình Web\Login\Login\bin\EntityFramework.dll
+E:\Lập Trình Web\Login\Login\bin\EntityFramework.SqlServer.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.AI.DependencyCollector.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.AI.Web.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.AI.WindowsServer.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.ApplicationInsights.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.Owin.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.Owin.Security.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.Owin.Security.Google.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.Web.Infrastructure.dll
+E:\Lập Trình Web\Login\Login\bin\Newtonsoft.Json.dll
+E:\Lập Trình Web\Login\Login\bin\Owin.dll
+E:\Lập Trình Web\Login\Login\bin\System.Web.Helpers.dll
+E:\Lập Trình Web\Login\Login\bin\System.Web.Mvc.dll
+E:\Lập Trình Web\Login\Login\bin\System.Web.Optimization.dll
+E:\Lập Trình Web\Login\Login\bin\System.Web.Razor.dll
+E:\Lập Trình Web\Login\Login\bin\System.Web.WebPages.Deployment.dll
+E:\Lập Trình Web\Login\Login\bin\System.Web.WebPages.dll
+E:\Lập Trình Web\Login\Login\bin\System.Web.WebPages.Razor.dll
+E:\Lập Trình Web\Login\Login\bin\WebGrease.dll
+E:\Lập Trình Web\Login\Login\bin\Microsoft.AI.DependencyCollector.xml
+E:\Lập Trình Web\Login\Login\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Lập Trình Web\Login\Login\bin\Microsoft.AI.Web.xml
+E:\Lập Trình Web\Login\Login\bin\Microsoft.AI.WindowsServer.xml
+E:\Lập Trình Web\Login\Login\bin\Microsoft.ApplicationInsights.xml
+E:\Lập Trình Web\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Lập Trình Web\Login\Login\bin\System.Web.Helpers.xml
+E:\Lập Trình Web\Login\Login\bin\System.Web.Mvc.xml
+E:\Lập Trình Web\Login\Login\bin\System.Web.Optimization.xml
+E:\Lập Trình Web\Login\Login\bin\System.Web.Razor.xml
+E:\Lập Trình Web\Login\Login\bin\System.Web.WebPages.xml
+E:\Lập Trình Web\Login\Login\bin\System.Web.WebPages.Deployment.xml
+E:\Lập Trình Web\Login\Login\bin\System.Web.WebPages.Razor.xml
+E:\Lập Trình Web\Login\Login\bin\Antlr3.Runtime.pdb
+E:\Lập Trình Web\Login\Login\bin\Newtonsoft.Json.xml
+E:\Lập Trình Web\Login\Login\bin\EntityFramework.xml
+E:\Lập Trình Web\Login\Login\bin\EntityFramework.SqlServer.xml
+E:\Lập Trình Web\Login\Login\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Lập Trình Web\Login\Login\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Lập Trình Web\Login\Login\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Lập Trình Web\Login\Login\bin\Microsoft.Owin.xml
+E:\Lập Trình Web\Login\Login\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Lập Trình Web\Login\Login\bin\Microsoft.Owin.Security.xml
+E:\Lập Trình Web\Login\Login\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Lập Trình Web\Login\Login\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Lập Trình Web\Login\Login\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Lập Trình Web\Login\Login\bin\Microsoft.Owin.Security.Google.xml
+E:\Lập Trình Web\Login\Login\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Lập Trình Web\Login\Login\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Lập Trình Web\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\Lập Trình Web\Login\Login\obj\Debug\Login.dll
+E:\Lập Trình Web\Login\Login\obj\Debug\Login.pdb
+C:\Users\PHAT\Downloads\Login\Login\bin\ApplicationInsights.config
+C:\Users\PHAT\Downloads\Login\Login\bin\roslyn\csc.exe
+C:\Users\PHAT\Downloads\Login\Login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PHAT\Downloads\Login\Login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PHAT\Downloads\Login\Login\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\roslyn\vbc.exe
+C:\Users\PHAT\Downloads\Login\Login\bin\roslyn\VBCSCompiler.exe
+C:\Users\PHAT\Downloads\Login\Login\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PHAT\Downloads\Login\Login\bin\Login.dll.config
+C:\Users\PHAT\Downloads\Login\Login\bin\Login.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Login.pdb
+C:\Users\PHAT\Downloads\Login\Login\bin\Antlr3.Runtime.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\EntityFramework.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\EntityFramework.SqlServer.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.AI.Web.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.Owin.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.Owin.Security.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Newtonsoft.Json.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Owin.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\System.Web.Helpers.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\System.Web.Mvc.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\System.Web.Optimization.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\System.Web.Razor.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\System.Web.WebPages.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\System.Web.WebPages.Razor.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\WebGrease.dll
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.AI.Web.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.ApplicationInsights.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\System.Web.Helpers.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\System.Web.Mvc.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\System.Web.Optimization.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\System.Web.Razor.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\System.Web.WebPages.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\System.Web.WebPages.Razor.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\Antlr3.Runtime.pdb
+C:\Users\PHAT\Downloads\Login\Login\bin\Newtonsoft.Json.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\EntityFramework.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\EntityFramework.SqlServer.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.Owin.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.Owin.Security.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PHAT\Downloads\Login\Login\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PHAT\Downloads\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\PHAT\Downloads\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\PHAT\Downloads\Login\Login\obj\Debug\Login.dll
+C:\Users\PHAT\Downloads\Login\Login\obj\Debug\Login.pdb
+C:\Users\PHAT\Downloads\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\PHAT\source\repos\Login\Login\bin\ApplicationInsights.config
+C:\Users\PHAT\source\repos\Login\Login\bin\roslyn\csc.exe
+C:\Users\PHAT\source\repos\Login\Login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PHAT\source\repos\Login\Login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PHAT\source\repos\Login\Login\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\roslyn\vbc.exe
+C:\Users\PHAT\source\repos\Login\Login\bin\roslyn\VBCSCompiler.exe
+C:\Users\PHAT\source\repos\Login\Login\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PHAT\source\repos\Login\Login\bin\Login.dll.config
+C:\Users\PHAT\source\repos\Login\Login\bin\Login.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Login.pdb
+C:\Users\PHAT\source\repos\Login\Login\bin\Antlr3.Runtime.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\EntityFramework.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\EntityFramework.SqlServer.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.AI.Web.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.Owin.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.Owin.Security.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Newtonsoft.Json.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Owin.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\System.Web.Helpers.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\System.Web.Mvc.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\System.Web.Optimization.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\System.Web.Razor.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\System.Web.WebPages.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\System.Web.WebPages.Razor.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\WebGrease.dll
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.AI.Web.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.ApplicationInsights.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\System.Web.Helpers.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\System.Web.Mvc.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\System.Web.Optimization.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\System.Web.Razor.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\System.Web.WebPages.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\System.Web.WebPages.Razor.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\Antlr3.Runtime.pdb
+C:\Users\PHAT\source\repos\Login\Login\bin\Newtonsoft.Json.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\EntityFramework.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\EntityFramework.SqlServer.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.Owin.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.Owin.Security.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PHAT\source\repos\Login\Login\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PHAT\source\repos\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\PHAT\source\repos\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\PHAT\source\repos\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\PHAT\source\repos\Login\Login\obj\Debug\Login.dll
+C:\Users\PHAT\source\repos\Login\Login\obj\Debug\Login.pdb
+C:\Users\IBL\Desktop\Login\Login\bin\ApplicationInsights.config
+C:\Users\IBL\Desktop\Login\Login\bin\roslyn\csc.exe
+C:\Users\IBL\Desktop\Login\Login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IBL\Desktop\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IBL\Desktop\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IBL\Desktop\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IBL\Desktop\Login\Login\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IBL\Desktop\Login\Login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IBL\Desktop\Login\Login\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IBL\Desktop\Login\Login\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IBL\Desktop\Login\Login\bin\roslyn\vbc.exe
+C:\Users\IBL\Desktop\Login\Login\bin\roslyn\VBCSCompiler.exe
+C:\Users\IBL\Desktop\Login\Login\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IBL\Desktop\Login\Login\bin\Login.dll.config
+C:\Users\IBL\Desktop\Login\Login\bin\Login.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Login.pdb
+C:\Users\IBL\Desktop\Login\Login\bin\Antlr3.Runtime.dll
+C:\Users\IBL\Desktop\Login\Login\bin\EntityFramework.dll
+C:\Users\IBL\Desktop\Login\Login\bin\EntityFramework.SqlServer.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.AI.Web.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.ApplicationInsights.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.Owin.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.Owin.Security.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Newtonsoft.Json.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Owin.dll
+C:\Users\IBL\Desktop\Login\Login\bin\System.Web.Helpers.dll
+C:\Users\IBL\Desktop\Login\Login\bin\System.Web.Mvc.dll
+C:\Users\IBL\Desktop\Login\Login\bin\System.Web.Optimization.dll
+C:\Users\IBL\Desktop\Login\Login\bin\System.Web.Razor.dll
+C:\Users\IBL\Desktop\Login\Login\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IBL\Desktop\Login\Login\bin\System.Web.WebPages.dll
+C:\Users\IBL\Desktop\Login\Login\bin\System.Web.WebPages.Razor.dll
+C:\Users\IBL\Desktop\Login\Login\bin\WebGrease.dll
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.AI.Web.xml
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.ApplicationInsights.xml
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IBL\Desktop\Login\Login\bin\System.Web.Helpers.xml
+C:\Users\IBL\Desktop\Login\Login\bin\System.Web.Mvc.xml
+C:\Users\IBL\Desktop\Login\Login\bin\System.Web.Optimization.xml
+C:\Users\IBL\Desktop\Login\Login\bin\System.Web.Razor.xml
+C:\Users\IBL\Desktop\Login\Login\bin\System.Web.WebPages.xml
+C:\Users\IBL\Desktop\Login\Login\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IBL\Desktop\Login\Login\bin\System.Web.WebPages.Razor.xml
+C:\Users\IBL\Desktop\Login\Login\bin\Antlr3.Runtime.pdb
+C:\Users\IBL\Desktop\Login\Login\bin\Newtonsoft.Json.xml
+C:\Users\IBL\Desktop\Login\Login\bin\EntityFramework.xml
+C:\Users\IBL\Desktop\Login\Login\bin\EntityFramework.SqlServer.xml
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.Owin.xml
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.Owin.Security.xml
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\IBL\Desktop\Login\Login\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\IBL\Desktop\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\IBL\Desktop\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\IBL\Desktop\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\IBL\Desktop\Login\Login\obj\Debug\Login.dll
+C:\Users\IBL\Desktop\Login\Login\obj\Debug\Login.pdb
+D:\02 Development\Hieu\test\Login\Login\Login\bin\ApplicationInsights.config
+D:\02 Development\Hieu\test\Login\Login\Login\bin\roslyn\csc.exe
+D:\02 Development\Hieu\test\Login\Login\Login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\02 Development\Hieu\test\Login\Login\Login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\02 Development\Hieu\test\Login\Login\Login\bin\roslyn\System.Collections.Immutable.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\roslyn\System.Reflection.Metadata.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\roslyn\vbc.exe
+D:\02 Development\Hieu\test\Login\Login\Login\bin\roslyn\VBCSCompiler.exe
+D:\02 Development\Hieu\test\Login\Login\Login\bin\roslyn\VBCSCompiler.exe.config
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Login.dll.config
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Login.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Login.pdb
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Antlr3.Runtime.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\EntityFramework.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\EntityFramework.SqlServer.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.AI.Agent.Intercept.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.AI.DependencyCollector.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.AI.Web.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.AI.WindowsServer.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.ApplicationInsights.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.AspNet.Identity.Core.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.Owin.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.Owin.Security.Cookies.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.Owin.Security.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.Owin.Security.Facebook.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.Owin.Security.Google.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.Owin.Security.OAuth.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.Owin.Security.Twitter.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.Web.Infrastructure.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Newtonsoft.Json.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Owin.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\System.Web.Helpers.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\System.Web.Mvc.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\System.Web.Optimization.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\System.Web.Razor.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\System.Web.WebPages.Deployment.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\System.Web.WebPages.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\System.Web.WebPages.Razor.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\WebGrease.dll
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.AI.DependencyCollector.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.AI.Web.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.AI.WindowsServer.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.ApplicationInsights.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\System.Web.Helpers.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\System.Web.Mvc.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\System.Web.Optimization.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\System.Web.Razor.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\System.Web.WebPages.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\System.Web.WebPages.Deployment.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\System.Web.WebPages.Razor.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Antlr3.Runtime.pdb
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Newtonsoft.Json.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\EntityFramework.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\EntityFramework.SqlServer.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.AspNet.Identity.Core.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.Owin.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.Owin.Security.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.Owin.Security.Facebook.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.Owin.Security.Cookies.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.Owin.Security.OAuth.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.Owin.Security.Google.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.Owin.Security.Twitter.xml
+D:\02 Development\Hieu\test\Login\Login\Login\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\02 Development\Hieu\test\Login\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+D:\02 Development\Hieu\test\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\02 Development\Hieu\test\Login\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\02 Development\Hieu\test\Login\Login\Login\obj\Debug\Login.dll
+D:\02 Development\Hieu\test\Login\Login\Login\obj\Debug\Login.pdb
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\ApplicationInsights.config
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Login.dll.config
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Login.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Login.pdb
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\EntityFramework.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.AI.Web.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.Owin.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.Owin.Security.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Owin.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\WebGrease.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.AI.Web.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\EntityFramework.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.Owin.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.Owin.Security.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\obj\Debug\Login.dll
+C:\Users\Asus\Desktop\Login_2\Login\Login\Login\Login\obj\Debug\Login.pdb
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\ApplicationInsights.config
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\roslyn\csc.exe
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\roslyn\vbc.exe
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\roslyn\VBCSCompiler.exe
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Login.dll.config
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Login.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Login.pdb
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Antlr3.Runtime.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\EntityFramework.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\EntityFramework.SqlServer.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.AI.Web.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.ApplicationInsights.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.Owin.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.Owin.Security.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Newtonsoft.Json.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Owin.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\System.Web.Helpers.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\System.Web.Mvc.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\System.Web.Optimization.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\System.Web.Razor.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\System.Web.WebPages.Deployment.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\System.Web.WebPages.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\System.Web.WebPages.Razor.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\WebGrease.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.AI.Web.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.ApplicationInsights.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\System.Web.Helpers.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\System.Web.Mvc.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\System.Web.Optimization.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\System.Web.Razor.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\System.Web.WebPages.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\System.Web.WebPages.Deployment.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\System.Web.WebPages.Razor.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Antlr3.Runtime.pdb
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Newtonsoft.Json.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\EntityFramework.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\EntityFramework.SqlServer.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.Owin.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.Owin.Security.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\obj\Debug\Login.dll
+C:\Users\50802\Documents\Zalo Received Files\Login\Login\Login\Login\Login\obj\Debug\Login.pdb
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\ApplicationInsights.config
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Login.dll.config
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Login.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Login.pdb
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Owin.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\obj\Debug\Login.dll
+C:\Users\Administrator\Desktop\webgym\webgymmoncongcu\Login\obj\Debug\Login.pdb

@@ -1,0 +1,67 @@
+﻿@model Login.Models.RegisterViewModel
+@{
+    ViewBag.Title = "ĐĂNG KÝ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#myPage">DRAGON GYM</a>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav navbar-right">
+                <li>@Html.ActionLink("Trang chủ", "Index", "Home")</li>
+                <li class="active">@Html.ActionLink("Khách hàng", "Index", "KHACHHANGs")</li>
+                <li>@Html.ActionLink("Nhân viên", "Index", "NHANVIENs")</li>
+                <li>@Html.ActionLink("Thiết bị", "Index", "THIETBIs")</li>
+                <li>@Html.ActionLink("Khuyến mãi", "Index", "KHUYENMAIs")</li><li>@Html.ActionLink("Videos", "Index", "Videos")</li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="container-fluid" style=" background-image: url('/Content/images/bglogin.jpg'); width: 100%; height:750px;">
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+    <h1 style="color:white;text-align:center">Đăng kí</h1>
+
+    @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+    {
+        @Html.AntiForgeryToken()
+
+        @Html.ValidationSummary("", new { @class = "text-danger" })
+        <div class="form-group">
+
+            <div class="col-md-2 control-label" style="color:whitesmoke">Email</div>
+            <div class="col-md-10">
+
+                @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-2 control-label" style="color:whitesmoke">Mật khẩu</div>
+            <div class="col-md-10">
+                @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-2 control-label" style="color:whitesmoke">Xác nhận mật khẩu</div>
+            <div class="col-md-10">
+                @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" class="btn btn-default" value="Đăng ký" />
+            </div>
+        </div>
+    }
+    <br /> <br /> <br /> <br /> <br /><br /> <br /> <br />
+</div>
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }

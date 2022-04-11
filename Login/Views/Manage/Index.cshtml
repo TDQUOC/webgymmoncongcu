@@ -1,0 +1,45 @@
+﻿@model Login.Models.IndexViewModel
+@{
+    ViewBag.Title = "Quản lý mật khẩu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#myPage">DRAGON GYM</a>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav navbar-right">
+                <li>@Html.ActionLink("Trang chủ", "Index", "Home")</li>
+                <li class="active">@Html.ActionLink("Khách hàng", "Index", "KHACHHANGs")</li>
+                <li>@Html.ActionLink("Nhân viên", "Index", "NHANVIENs")</li>
+                <li>@Html.ActionLink("Thiết bị", "Index", "THIETBIs")</li>
+                <li>@Html.ActionLink("Khuyến mãi", "Index", "KHUYENMAIs")</li><li>@Html.ActionLink("Videos", "Index", "Videos")</li>
+            </ul>
+
+        </div>
+    </div>
+</nav>
+<div class="container-fluid" style=" background-image: url('/Content/images/bglogin.jpg'); width: 100%; height:750px;">
+    <h1 style="color:whitesmoke">@ViewBag.Title.</h1>
+
+    <p class="text-success">@ViewBag.StatusMessage</p>
+
+    <div >
+        <br />
+                @if (Model.HasPassword)
+                {
+                  <button class="btn btn-default btn-lg" type="button">@Html.ActionLink("Đổi mật khẩu", "ChangePassword")</button>
+                  
+                    
+                }
+                else
+                {
+                    @Html.ActionLink("Create", "SetPassword")
+                }
+        <br /><br />
+        <button class="btn btn-default btn-lg" type="button">@Html.ActionLink("Quay lại", "Index", "Home")</button>
+        
+    </div>
+    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+</div>

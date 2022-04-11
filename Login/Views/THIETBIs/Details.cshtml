@@ -1,0 +1,40 @@
+﻿@model Login.Models.THIETBI
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="col-md-offset-1">Chi tiết thiết bị</h2>
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.tentb)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tentb)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.giatb)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.giatb)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.soluong)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.soluong)
+        </dd>
+
+    </dl>
+</div>
+
+<div class="col-md-offset-1">
+    <i class="fa fa-long-arrow-left" aria-hidden="true" style="color:black"> @Html.ActionLink("Quay lại", "Index")</i>
+</div>

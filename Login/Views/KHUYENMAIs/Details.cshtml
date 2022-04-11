@@ -1,0 +1,41 @@
+﻿@model Login.Models.KHUYENMAI
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="col-md-offset-1">Chi tiết khuyến mãi</h2>
+
+<div>
+
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.tenct)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tenct)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.noidung)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.noidung)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.doituong)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.doituong)
+        </dd>
+
+    </dl>
+</div>
+<div class="col-md-offset-1">
+    <i class="fa fa-long-arrow-left" aria-hidden="true" style="color:black"> @Html.ActionLink("Quay lại", "Index")</i>
+</div>

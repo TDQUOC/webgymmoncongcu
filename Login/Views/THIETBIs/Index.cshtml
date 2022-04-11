@@ -1,0 +1,95 @@
+﻿@model IEnumerable<Login.Models.THIETBI>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#myPage">DRAGON GYM</a>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav navbar-right">
+                <li>@Html.ActionLink("Trang chủ", "Index", "Home")</li>
+                <li>@Html.ActionLink("Khách hàng", "Index", "KHACHHANGs")</li>
+                <li>@Html.ActionLink("Nhân viên", "Index", "NHANVIENs")</li>
+                <li class="active">@Html.ActionLink("Thiết bị", "Index", "THIETBIs")</li>
+                <li>@Html.ActionLink("Khuyến mãi", "Index", "KHUYENMAIs")</li><li>@Html.ActionLink("Videos", "Index", "Videos")</li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container-fluid" style=" background-image: url('/Content/images/background.jpg'); width: 100%; height:750px;">
+
+    <div class="table-wrapper">
+        <div class="table-title">
+            <div class="row">
+                <div class="col-sm-8"><h1 style="color: whitesmoke">QUẢN LÝ THIẾT BỊ</h1></div>
+            </div>
+            <button type="button" class="btn btn-default " style="color:black">
+                <i class="fa fa-plus" aria-hidden="true"></i> @Html.ActionLink("Thêm mới", "Create")</button>
+            <br />
+            <form method="post">
+                <br />
+                <input type="text" id="text1" name="k" placeholder="tên thiết bị cần tìm" />
+                <button class="btn btn-default" id="submit1" type="submit" value="Tìm" style="color:black">
+                    <i class="fa fa-search" aria-hidden="true"></i> Tìm kiếm
+                </button>
+
+            </form>
+        </div>
+        <br />
+        <table class="table table-bordered">
+            <tr class="table">
+                <th>
+                    @Html.DisplayNameFor(model => model.matb)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.tentb)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.giatb)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.soluong)
+                </th>
+                <th>
+
+                </th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr class="table">
+                    <td>
+                        @Html.DisplayFor(modelItem => item.matb)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.tentb)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.giatb)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.soluong)
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default" style="font-size: large;color:black">
+                            <i class="fa fa-wrench" aria-hidden="true"></i> @Html.ActionLink("Sửa", "Edit", new { id = item.matb })
+                        </button>
+                        <button type="button" class="btn btn-default" style="font-size: large;color:black">
+                            <i class="fa fa-info" aria-hidden="true"></i> @Html.ActionLink("Chi tiết", "Details", new { id = item.matb })
+                        </button>
+                        <button type="button" class="btn btn-default" style="font-size:large;color:black">
+                            <i class="fa fa-trash-o" aria-hidden="true"></i> @Html.ActionLink("Xóa", "Delete", new { id = item.matb })
+                        </button>
+
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>
